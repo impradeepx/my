@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Pråðëëp</h1>
+<h1 align="center">Hi 👋, This is <b>Pråðëëp</b></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impradeepx&label=Profile%20views&color=0e75b6&style=flat" alt="impradeepx" /> </p>
 
 <p align="left"> <a href="https://twitter.com/impradeepx" target="blank"><img src="https://img.shields.io/twitter/follow/impradeepx?logo=twitter&style=for-the-badge" alt="impradeepx" /></a> </p>
